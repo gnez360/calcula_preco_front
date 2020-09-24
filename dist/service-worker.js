@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c6ad18c620d46946305605a8673bde34.js"
+  "/calcula_preco_front/precache-manifest.00f821047041e88b22398ebb405da474.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dolar_front"});
